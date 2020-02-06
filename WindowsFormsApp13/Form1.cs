@@ -14,7 +14,7 @@ namespace WindowsFormsApp13
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(321);
         }
 
         private void Form1_Load(object sender, EventArgs e)
